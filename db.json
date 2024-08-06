@@ -2,7 +2,7 @@
   "redirects": [
     {
       "id": 1,
-      "subdomain" : "as49d.nguyenvana.com",
+      "subdomain" : "as412.nguyenvana.com",
       "redirect_to" : "web99.vn"
     },
     {
@@ -12,22 +12,22 @@
     },
     {
       "id": 3,
-      "subdomain" : "as49d.nguyenvan2.com",
+      "subdomain" : "assad.nguyenvan2.com",
       "redirect_to" : "web99.vn"
     },
     {
       "id": 4,
-      "subdomain" : "as49d.nguyenvan3.com",
+      "subdomain" : "as1za.nguyenvan3.com",
       "redirect_to" : "web99.vn"
     },
     {
       "id": 5,
-      "subdomain" : "as49d.nguyenvan4.com",
+      "subdomain" : "asdawq.nguyenvan4.com",
       "redirect_to" : "web99.vn"
     },
     {
       "id": 6,
-      "subdomain" : "as49d.nguyenvan5.com",
+      "subdomain" : "as41d.nguyenvan5.com",
       "redirect_to" : "web99.vn"
     }
   ],
