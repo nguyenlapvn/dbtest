@@ -1,8 +1,34 @@
 {
-  "posts": [
+  "redirects": [
     {
       "id": 1,
-      "title": "hello"
+      "subdomain" : "as49d.nguyenvana.com",
+      "redirect_to" : "web99.vn"
+    },
+    {
+      "id": 2,
+      "subdomain" : "as49d.nguyenvan1.com",
+      "redirect_to" : "web99.vn"
+    },
+    {
+      "id": 3,
+      "subdomain" : "as49d.nguyenvan2.com",
+      "redirect_to" : "web99.vn"
+    },
+    {
+      "id": 4,
+      "subdomain" : "as49d.nguyenvan3.com",
+      "redirect_to" : "web99.vn"
+    },
+    {
+      "id": 5,
+      "subdomain" : "as49d.nguyenvan4.com",
+      "redirect_to" : "web99.vn"
+    },
+    {
+      "id": 6,
+      "subdomain" : "as49d.nguyenvan5.com",
+      "redirect_to" : "web99.vn"
     }
   ],
   "profile": {
